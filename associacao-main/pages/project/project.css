@@ -747,4 +747,18 @@ footer a {
     width: 50px; /* Largura do botão */
     height: 50px; /* Altura do botão */
 }
+
+/* Estilo para o botão próximo do carrossel */
+.carousel-control-next {
+    background-color: #ccc; /* Cor de fundo do botão */
+    border-radius: 50%; /* Borda arredondada */
+    width: 50px; /* Largura do botão */
+    height: 50px; /* Altura do botão */
+}
+
+/* Cor do ícone de seta dentro dos botões */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: #1a1a1a; /* Cor do ícone */
+}
 }
