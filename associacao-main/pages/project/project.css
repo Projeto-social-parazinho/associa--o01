@@ -739,4 +739,12 @@ footer a {
     .desktop-logo {
         height: 120px;
     }
+
+/* Estilo para o botão anterior do carrossel */
+.carousel-control-prev {
+    background-color: #ccc; /* Cor de fundo do botão */
+    border-radius: 50%; /* Borda arredondada */
+    width: 50px; /* Largura do botão */
+    height: 50px; /* Altura do botão */
+}
 }
